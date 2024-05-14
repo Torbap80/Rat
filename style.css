@@ -1,0 +1,68 @@
+*{
+margin: 0;
+padding: 0;
+}
+header{
+height: 40px;
+text-align: center;
+background: brown;
+color: white;
+font: 50px;
+}
+nav{
+height: 40px;
+text-align: center;
+background: yellowgreen;
+color: wheat;
+font: 50px;
+}
+section{
+display: flex;
+}
+.A{
+width: 20%;
+height: 100px;
+background: green;
+color: white;
+text-align: center;
+font: 50px;
+}
+.B{
+width: 20%;
+height: 100px;
+text-align: center;
+background: chocolate;
+color: white;
+font: 50px;
+}
+.C{
+width: 20%;
+height: 100px;
+text-align: center;
+background: darkblue;
+color: white;
+font: 50px;
+}
+.D{
+width: 20%;
+height: 100px;
+background: chartreuse;
+color: black;
+font: 50px;
+text-align: center;
+}
+.E{
+width: 20%;
+height: 100px;
+background: saddlebrown;
+color: white;
+text-align: center;
+font: 50px;
+}
+footer{
+height: 40px;
+text-align: center;
+background: black;
+color: white;
+font: 50px;
+}
